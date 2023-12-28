@@ -5,6 +5,8 @@
 > Status: Completo ✅
 
 
+> Fiz com o objetivo de colocar em prática minhas habilidades em HTML, CSS E JS
+
 > Tecnologias utilizadas ⚙️
 + HTML5 ✅
 + CSS ✅
